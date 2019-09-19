@@ -45,5 +45,10 @@
   "scripts": {
     "debug": "webpack-dev-server",
     "start": "webpack-dev-server"
+  },
+  "standard": {
+    "env": {
+      "browser": true
+    }
   }
 }
